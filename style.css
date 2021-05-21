@@ -67,4 +67,16 @@ body {
     .banner{
         background-color:blue;
     }
+}
+@media screen and (min-width:1025px){
+    .content{
+        width:50%;
+    }
+    .sideboard{
+        width:50%;
+        background-color:tan;
+    }
+    .banner{
+        background-color:rgb(238, 238, 104);
+    }
 }    
